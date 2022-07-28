@@ -1,5 +1,7 @@
 # built own function
 
 def first_function():
-    print('this is first built-own-function\n')
+    print('\n\'this is first built-own-function\'\n')
+
+first_function()
     
