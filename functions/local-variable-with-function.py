@@ -15,6 +15,7 @@ try:
             print('local variable value is :', variable,'\n')
         except:
             print('something is missing\n')
+    function_with_variable(variable)
 except:
     print('something is missing out of functions\n')
 finally:
