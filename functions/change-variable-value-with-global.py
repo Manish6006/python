@@ -1,9 +1,7 @@
 '''
 this is program for define x with global keyword using the function.
 '''
-'''
-this is program for create local x and use inside the function using functions
-'''
+
 x = 50
 
 
