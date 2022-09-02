@@ -12,4 +12,4 @@ newDictionary={
     'address':'computer memory'
 }
 for key, value in newDictionary.items():
-    print('key:{}, value:{} '.format(key,value))
+    print('key: {},\tvalue: {} '.format(key,value))
