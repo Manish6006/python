@@ -5,7 +5,7 @@ This is an example for DISPLAY INDEX WISE ITEM FROM SEQUENCE
 countyName=['India','America','Singapore','Hong Kong','Chile','Peru']
 nameString='Joseph'
 
-# Indexing or 'Subscription' function
+# Indexing
 print('Item[3] :', countyName[3])
 
 #print the first item from the sequence
