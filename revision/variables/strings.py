@@ -86,3 +86,12 @@ print(str[0:4])
 
 #Slice indices have useful defaults; an omitted first index defaults to zero,
 #  an omitted second index defaults to the size of the string being sliced.
+str='this is new world'
+print(str[:2]) # character from the beginning to position 2 (excluded)
+print(str[4:])
+print(str[:-2])
+print(str[-2:])
+
+#The built-in function len() returns the length of a string:
+str='this is new world'
+print(len(str))
